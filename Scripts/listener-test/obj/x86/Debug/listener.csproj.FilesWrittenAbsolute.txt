@@ -1,0 +1,5 @@
+/home/rafael/workbench/csharp/listener/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/rafael/workbench/csharp/listener/bin/Debug/listener.exe.mdb
+/home/rafael/workbench/csharp/listener/bin/Debug/listener.exe
+/home/rafael/workbench/csharp/listener/obj/x86/Debug/listener.exe
+/home/rafael/workbench/csharp/listener/obj/x86/Debug/listener.exe.mdb
